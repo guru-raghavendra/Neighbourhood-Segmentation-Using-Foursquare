@@ -24,3 +24,13 @@ The results from the k-means clustering show that we can categorize the neighbou
 • Cluster 1: Neighbourhoods with a moderate concentration of shopping malls <br/>
 • Cluster 2: Neighbourhoods with no shopping malls <br/>
 The results of the clustering are visualized in the map with cluster 0(high concentration of malls) in mint green color, cluster 1(medium concentration) in purple colour, and cluster 2(no malls) red colour .
+
+# Conclusions
+Property developers with unique selling propositions to stand out from the competition can also open new shopping malls in neighbourhoods in cluster 1 with moderate competition. Lastly, property developers are advised to avoid
+neighbourhoods in cluster 0 which already have a high concentration of shopping malls and suffering from intense competition.
+![](Image_files/BengaluruMap_AfterClustering.png)
+
+# References
+• Category: Neighbourhoods in Hyderabad, India.Wikipedia.Retrieved from <a href="https://en.wikipedia.org/wiki/Category:Neighbourhoods_in_Bangalore">https://en.wikipedia.org/wiki/Category:Neighbourhoods_in_Bangalore</a> <br/>
+• Foursquare Developers Documentation,Foursquare. Retrieved from <a href="https://developer.foursquare.com/docs">https://developer.foursquare.com/docs</a>
+
